@@ -45,7 +45,7 @@ Each project is available in its own folder with:
 ## 📎 Report & Blog
 
 - 📄 [Internship Report (PDF)](https://github.com/haripatel07/Samatrix-Data-Analysis-Internship/blob/main/InternshipReport.pdf)
-- 📝 [Internship Blog on Medium](https://medium.com/@yourhandle/)
+- 📝 [Internship Blog on Medium](https://medium.com/@haripatel07/from-code-to-clarity-my-transformative-internship-in-data-analytics-5c0c58958043)
 
 ## 🤝 Acknowledgments
 
